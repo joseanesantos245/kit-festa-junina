@@ -1,0 +1,10 @@
+# Arquivos do sistema
+Thumbs.db
+Desktop.ini
+*.tmp
+~$*
+
+# Compactados / backup
+*.zip
+*.rar
+*.7z
